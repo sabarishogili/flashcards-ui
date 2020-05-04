@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+# editors
+/.idea
+*.iml
+
+yarn.lock
+
 # testing
 /coverage
 
